@@ -74,8 +74,8 @@ cancelBtn.addEventListener("click", function() {
     document.getElementById("ticket").innerHTML = "";  
     document.getElementById("wagon").innerHTML = "";   
     document.getElementById("code").innerHTML = "";   
-    document.getElementById("ticketPice").innerHTML = "";
-    
+    document.getElementById("ticketPrice").innerHTML = "";
+
     document.getElementById("error").innerHTML = "";     
 })
 
